@@ -4,3 +4,6 @@ import math
 
 def factorial(a):
   return math.factorial(a)
+
+def sinfunc(a):
+  return math.sin(a)
