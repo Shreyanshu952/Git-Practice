@@ -4,3 +4,7 @@ import math
 
 def factorial(a):
   return math.factorial(a)
+
+def logfunc(a):
+  return math.log2(a)
+
