@@ -1,1 +1,1 @@
-## GIT and GITHUB Tutorials by Shreyanshu Pachauri
+## GIT and GITHUB Tutorials by SHREYANSHU PACHAURI
