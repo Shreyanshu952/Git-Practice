@@ -1,11 +1,5 @@
-## GIT PRACTICE
+# GIT PRACTICE
 
-# GIT and GITHUB Tutorials by Shreyanshu PachaurI
+## GIT and GITHUB Tutorials by Shreyanshu PachaurI
 
-# Github 1st class
-
-# understanding conflict concept
-
-# done confliction
-
-# done confliction 2
+## Github 1st class
